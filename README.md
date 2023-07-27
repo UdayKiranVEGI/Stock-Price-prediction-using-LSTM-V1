@@ -20,9 +20,9 @@ This project uses deep learning techniques to predict stock prices using LSTM al
 ## Tools Used
 - [ ] Figma : for UI/UX design
 - [ ] HTML, CSS : for front-end development.
-- [ ] Flask : for web application development. 
+- [ ] Flask : for connecting front-end page to the server.
 - [ ] Deep Learning Algorithm : LSTM (Long Short Term Memory).
-- [ ] Docket : To build, test, and deploy applications quickly
+- [ ] Docker : To build, test, and deploy applications quickly
 - [ ] Google Cloud : for Cloud deployment.
 - [ ] Sublime, Spyder : for code editing.
 - [ ] Slack : for team communication.
